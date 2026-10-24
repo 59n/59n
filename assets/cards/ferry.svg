@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="180" viewBox="0 0 600 180" role="img" aria-label="Ferry">
+<style>
+.g{animation:float 4s ease-in-out infinite}
+@keyframes float{0%,100%{transform:translate(528px,58px)}50%{transform:translate(528px,52px)}}
+@media (prefers-reduced-motion:reduce){.g{animation:none}}
+</style>
+<defs>
+<radialGradient id="h" cx="1" cy="0" r="1"><stop offset="0" stop-color="#4da3ff" stop-opacity=".22"/><stop offset=".55" stop-color="#4da3ff" stop-opacity="0"/></radialGradient>
+</defs>
+<rect x=".5" y=".5" width="599" height="179" rx="14" fill="#050505" stroke="#1f1f1f"/>
+<rect x=".5" y=".5" width="599" height="179" rx="14" fill="url(#h)"/>
+<rect x="0" y="28" width="3" height="40" rx="1.5" fill="#4da3ff"/>
+<g class="g" transform="translate(528 58)"><rect x="-22" y="-16" width="44" height="32" rx="6" fill="none" stroke="#4da3ff" stroke-width="2.5"/><path d="M-18 12 L-6 0 L2 8 L8 2 L18 12" fill="none" stroke="#4da3ff" stroke-width="2.5" stroke-linejoin="round"/><circle cx="10" cy="-7" r="3.5" fill="#4da3ff"/></g>
+<text x="32" y="58" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="27" font-weight="700" fill="#fff">Ferry</text>
+<text font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#a3a3a3"><tspan x="32" y="94">Backs up your Apple Photos library to</tspan><tspan x="32" y="118">Immich and/or a folder, from the menu bar.</tspan></text>
+<g font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13">
+<circle cx="38" cy="150" r="5" fill="#4da3ff"/>
+<text x="51" y="155" fill="#d4d4d4">Rust · Tauri</text>
+<text x="568" y="155" fill="#6b6b6b" text-anchor="end">macOS app ↗</text>
+</g>
+</svg>

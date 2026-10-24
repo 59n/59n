@@ -1,16 +1,16 @@
-### Hi, I'm 59n
+<img src="assets/banner.svg" width="100%" alt="59n — self-hosted tools, trading utilities, macOS apps">
 
-I build small, self-hosted tools: trading utilities, macOS menu-bar apps, browser start pages, Discord bots and the odd Roblox game.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,rust,tauri,swift,python,docker,cloudflare,linux,lua&theme=dark&perline=12" alt="TypeScript, Next.js, React, Tailwind, Rust, Tauri, Swift, Python, Docker, Cloudflare, Linux, Lua">
+</p>
 
-**Mostly working with:** TypeScript · Next.js · Rust/Tauri · Swift · Python · Luau
+<br>
 
-#### Projects
-
-| Project | What it is |
-| --- | --- |
-| [Ferry](https://github.com/59n/ferry) | macOS menu-bar app that backs up Apple Photos to Immich and/or a folder |
-| [Key Opens](https://github.com/59n/key-opens) | TradingView indicator for Powell's key opens and the 10am model on index futures |
-| [IndexSwapy](https://github.com/59n/indexswapy) | Convert price levels between QQQ, NDX, NQ, SPY and ES using live ratios ([backend](https://github.com/59n/indexswapy-backend)) |
-| [Trade agency landing page](https://github.com/59n/trade-agency-landing-page-template) | Configurable Next.js landing page template, in English and Dutch |
-| [AMOLED New Tab](https://github.com/59n/amoled-newtab) | Pure-black new tab extension for Chrome with ASCII eyes, clock, search and shortcuts |
-| [Zerobyte Dashboard](https://github.com/59n/zerobyte-dashboard) | Minimalist cyberpunk start page in React + Vite |
+<p align="center">
+  <a href="https://github.com/59n/ferry"><img src="assets/cards/ferry.svg" width="49%" alt="Ferry"></a>
+  <a href="https://github.com/59n/key-opens"><img src="assets/cards/key-opens.svg" width="49%" alt="Key Opens"></a>
+  <a href="https://github.com/59n/indexswapy"><img src="assets/cards/indexswapy.svg" width="49%" alt="IndexSwapy"></a>
+  <a href="https://github.com/59n/trade-agency-landing-page-template"><img src="assets/cards/trade-agency.svg" width="49%" alt="Trade Agency Template"></a>
+  <a href="https://github.com/59n/amoled-newtab"><img src="assets/cards/amoled-newtab.svg" width="49%" alt="AMOLED New Tab"></a>
+  <a href="https://github.com/59n/zerobyte-dashboard"><img src="assets/cards/zerobyte-dashboard.svg" width="49%" alt="Zerobyte Dashboard"></a>
+</p>
