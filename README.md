@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" width="100%" alt="59n — self-hosted tools, trading utilities, macOS apps">
+<img src="assets/banner-v2.svg" width="100%" alt="59n — self-hosted tools, trading utilities, macOS apps">
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,rust,tauri,swift,python,docker,cloudflare,linux,lua&theme=dark&perline=12" alt="TypeScript, Next.js, React, Tailwind, Rust, Tauri, Swift, Python, Docker, Cloudflare, Linux, Lua">
